@@ -1,0 +1,85 @@
+@charset "utf-8";
+body{
+	font-family: "Monaco", monospace;
+	font-size: 15px;
+	font-style: normal;
+	color: black;
+	background-color: #ffffff;
+	border: 20px;
+	border-style: solid;
+	border-color: green;
+	margin: 100px 100px 100px;
+	text-align: center;
+}
+
+a{
+	font-family: "Monaco", monospace;
+	font-size: 15px;
+	font-style: normal;
+	color: black;
+	text-decoration: none;
+	border: 2px;
+	border-style: solid;
+	border-color: #b0f28c;
+	line-height: 3;
+	border-radius: 4px;
+	position: relative;
+	padding: 5px;
+}
+
+input {
+  width: 15%;
+  border: 3px solid #555;
+  padding: 6px;
+  background: white;
+  border-radius: 4px;
+  
+}
+
+h1{
+	text-align:center;
+	font-family: "Monaco", monospace;
+	font-size: 12px;
+	font-style: normal;
+	color: green;
+	padding: 5px;
+}
+
+h2{
+	font-family: "Monaco", monospace;
+	font-size: 12px;
+	font-style: normal;
+	color: green;
+	padding: 5px;
+}
+
+h3{
+	font-family: "Monaco", monospace;
+	font-size: 12px;
+	font-style: normal;
+	color: green;
+	padding: 5px;
+}
+
+p{
+	text-decoration: underline;
+	font-family: "Monaco", monospace;
+	font-size: 20px;
+	font-style: normal;
+	color: green;
+	padding: 5px;
+	margin-top: 90px;
+}
+
+a.toplink{
+	padding: 5px;
+	color: green;
+	border: none;
+	
+}
+
+
+form{
+	margin-top: 20px;
+	
+}
